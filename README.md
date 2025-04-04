@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title> New Project </title>  
+    <title>Page Title</title>
     <meta charset="utc_8">
   </head>
   <body>
