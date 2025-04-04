@@ -2,7 +2,7 @@
 <html>
   <head>
     <title> New Project </title>  
-    <charset rel="utc_8">
+    <meta charset="utc_8">
   </head>
   <body>
     <div id="container">
