@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Page Title</title>
     <meta charset="utc_8">
   </head>
   <body>
