@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <charset rel="utc_8">
     <title> New Project </title>  
+    <charset rel="utc_8">
   </head>
   <body>
     <div id="container">
